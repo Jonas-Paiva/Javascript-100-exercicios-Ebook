@@ -4,6 +4,7 @@ Exercícios do livro ' Dominando Javascript 100 exercícios '
 
 ## Formulas Matemáticas
 
+<details>
 1. Escreva um programa que solicite ao usuário dois números e exiba a soma, subtração, multiplicação e divisão entre eles.
 
 2. Escreva um programa que calcule a média aritmética de dois números.
@@ -28,14 +29,16 @@ Exercícios do livro ' Dominando Javascript 100 exercícios '
 
 12. Escreva um programa que calcule a energia cinética de um objeto em movimento, utilizando a fórmula E= (mv²)/2, onde E é a energia cinética, m é a massa do objeto e v é a velocidade.
 
-13. Escreva um programa que calcule o trabalho realizado por uma força que atua sobre um objeto, utilizando a fórmula T = F \* d, onde T é o trabalho, F é força aplicada e d é a distância percorrida pelo objeto.
+13. Escreva um programa que calcule o trabalho realizado por uma força que atua sobre um objeto, utilizando a fórmula T = F\*d, onde T é o trabalho, F é força aplicada e d é a distância percorrida pelo objeto.
 
 14. Escreva um programa que leia a posição x e y de dois pontos no plano cartesiano, e calcule a distância entre ambos.
 
 15. Crie um programa que solicite ao usuário o valor de raio de um esfera e calcule e exiba o seu volume.
+</details>
 
 ## Strings
 
+<details>
 16. Crie um programa que leia duas palavras e as concatene exibindo a palavra resultante.
 
 17. Faça um programa que receba um programa que receba uma palavra e exiba cada letra separadamente.
@@ -55,3 +58,4 @@ Exercícios do livro ' Dominando Javascript 100 exercícios '
 24. Crie um programa que leia uma palavra e exiba a quantidade de vogais presentes na mesma.
 
 25. Escreva um programa que receba um nome completo e exiba o sobrenome (último nome) primeiro.
+</details>
